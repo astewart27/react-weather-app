@@ -1,3 +1,5 @@
+![Image of a React Weather App](https://github.com/astewart27/react-weather-app/tree/master/src/img/weather-app-sc.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
