@@ -28,7 +28,7 @@ class App extends Component {
         temperature: data.main.temp,
         city: data.name,
         country: data.sys.country,
-        humidty: data.main.humidty,
+        humidity: data.main.humidity,
         description: data.weather[0].description,
         error: ""
       });
@@ -37,7 +37,7 @@ class App extends Component {
         temperature: undefined,
         city: undefined,
         country: undefined,
-        humidty: undefined,
+        humidity: undefined,
         description: undefined,
         error: "Please enter a city and country."
       });
